@@ -9,15 +9,18 @@
                 <h3 class="text-center title">Soğuk Sıkım Zeytinyağları
                 </h3>
             </div>
-              <div class="container mt-2 me-sm-5" style="font-family: Calibri">
-         <Label Text="text" style="color:#867f7f">Anasayfa</Label> / <Label Text="text" style="color:orange">Sayfa Adı gelicek</Label>
-        </div>
+           
         </div>
         <div class="row">
             <div class="col-lg-12 text-center mb-3">
                 <img src="Assetss/Img/SogutSıkımZtitleimg.jpg" class="w-75" />
             </div>
         </div>
+         <div class="container mt-2 me-sm-5" style="font-family: Calibri">
+                <label text="text" style="color: #867f7f">Anasayfa</label>
+                /
+                <label text="text" style="color: orange">Sayfa Adı gelicek</label>
+            </div>
         <div ng-app="card" ng-controller="GetData">
             <div class="content">
                 <div class="row">
@@ -67,8 +70,8 @@
     <script>
         var app = angular.module('card', []);
         app.controller('GetData', function ($scope, $http) {
-            $http.get("Product.json").then(function (response) {
-                $scope.veri = response.data.zeytinyagi;
+            $http.get("Master.json").then(function (response) {
+                $scope.veri = response.data.OliveOil;
             });
         });
     </script>

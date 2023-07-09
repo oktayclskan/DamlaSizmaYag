@@ -56,7 +56,7 @@
                 <div class="col-sm-3">
                     <div class="row">
                         <div class="col-sm-5 text-center text-white mt-2 contact">
-                            <a href="#" class="text-decoration-none text-white"><span>Blog</span>
+                            <a href="BlogPage.aspx" class="text-decoration-none text-white"><span>Blog</span>
                             </a>
                         </div>
                         <div class="col-sm-7 text-success text-white contact mt-1">

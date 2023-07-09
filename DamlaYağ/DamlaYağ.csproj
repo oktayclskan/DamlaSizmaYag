@@ -2715,9 +2715,22 @@
     <Content Include="Assetss\angular-1.8.2\test-bundles\angular-sanitize.js" />
     <Content Include="Assetss\angular-1.8.2\test-bundles\angular-touch.js" />
     <Content Include="Assetss\angular-1.8.2\version.txt" />
-    <Content Include="Assetss\BlogImg\blog-2023-.jpg" />
-    <Content Include="Assetss\BlogImg\blog-2023-04-12t172329.151-500x317.jpg" />
-    <Content Include="Assetss\BlogImg\blog.jpg" />
+    <Content Include="Assetss\BlogImg\OilBlog\img1.jpg" />
+    <Content Include="Assetss\BlogImg\OilBlog\img2.jpg" />
+    <Content Include="Assetss\BlogImg\OilBlog\img3.jpg" />
+    <Content Include="Assetss\BlogImg\OilBlog\img4.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t171650.158-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t171823.872-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172100.823-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172329.151-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172458.907-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172908.122-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\blog-2.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\blog-3.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\blog-4.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\blog-5.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\blog-6.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\blog1.jpg" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\css\bootstrap-grid.css" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\css\bootstrap-grid.min.css" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\css\bootstrap-grid.rtl.css" />
@@ -4805,17 +4818,12 @@
     <Content Include="Assetss\Img\SogutSıkımZtitleimg.jpg" />
     <Content Include="Assetss\Img\wplogo.png" />
     <Content Include="Assetss\Js\jquery-3.6.4.min.js" />
-    <Content Include="BlogPage.aspx" />
     <Content Include="Index.aspx" />
+    <Content Include="OilBlog.aspx" />
+    <Content Include="OliveOilBenfitsBlog.aspx" />
+    <Content Include="RecipesBlog.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlogPage.aspx.cs">
-      <DependentUpon>BlogPage.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="BlogPage.aspx.designer.cs">
-      <DependentUpon>BlogPage.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4830,7 +4838,28 @@
     <Compile Include="Master.Master.designer.cs">
       <DependentUpon>Master.Master</DependentUpon>
     </Compile>
+    <Compile Include="OilBlog.aspx.cs">
+      <DependentUpon>OilBlog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OilBlog.aspx.designer.cs">
+      <DependentUpon>OilBlog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OliveOilBenfitsBlog.aspx.cs">
+      <DependentUpon>OliveOilBenfitsBlog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OliveOilBenfitsBlog.aspx.designer.cs">
+      <DependentUpon>OliveOilBenfitsBlog.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecipesBlog.aspx.cs">
+      <DependentUpon>RecipesBlog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RecipesBlog.aspx.designer.cs">
+      <DependentUpon>RecipesBlog.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assetss\angular-1.8.2\angular-animate.min.js.map" />
@@ -5147,9 +5176,8 @@
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\js\bootstrap.esm.min.js.map" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\js\bootstrap.js.map" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\js\bootstrap.min.js.map" />
-    <Content Include="Blog.json" />
+    <Content Include="Master.json" />
     <None Include="packages.config" />
-    <Content Include="Product.json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assetss\angular-1.8.2\i18n\ngLocale\" />
