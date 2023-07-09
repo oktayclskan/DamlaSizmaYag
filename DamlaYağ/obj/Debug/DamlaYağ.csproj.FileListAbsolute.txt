@@ -1,0 +1,413 @@
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\DamlaYağ.dll.config
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\DamlaYağ.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\DamlaYağ.pdb
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\csc.exe
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\csc.exe.config
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\csc.rsp
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\csi.exe
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\csi.exe.config
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\csi.rsp
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.AppContext.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Console.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Net.Http.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\vbc.exe
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\vbc.exe.config
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\vbc.rsp
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\obj\Debug\DamlaYağ.dll
+C:\Users\rampa\source\repos\DamlaYağ\DamlaYağ\obj\Debug\DamlaYağ.pdb
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\DamlaYağ.dll.config
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\DamlaYağ.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\DamlaYağ.pdb
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\csc.exe
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\csc.exe.config
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\csc.rsp
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\csi.exe
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\csi.exe.config
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\csi.rsp
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.AppContext.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Console.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Net.Http.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\vbc.exe
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\vbc.exe.config
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\vbc.rsp
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\obj\Debug\DamlaYağ.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\DamlaOil\DamlaYağ\obj\Debug\DamlaYağ.pdb
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\DamlaYağ.dll.config
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\DamlaYağ.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\DamlaYağ.pdb
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\csc.exe
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\csc.exe.config
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\csc.rsp
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\csi.exe
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\csi.exe.config
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\csi.rsp
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.AppContext.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Console.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Net.Http.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.exe
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.exe.config
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.rsp
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.dll
+C:\Users\Oktay\Desktop\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.pdb
+G:\DamlaOil-main\DamlaYağ\bin\DamlaYağ.dll.config
+G:\DamlaOil-main\DamlaYağ\bin\DamlaYağ.dll
+G:\DamlaOil-main\DamlaYağ\bin\DamlaYağ.pdb
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\csc.exe
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\csc.exe.config
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\csc.rsp
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\csi.exe
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\csi.exe.config
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\csi.rsp
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.AppContext.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Console.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Net.Http.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.exe
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.exe.config
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.rsp
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+G:\DamlaOil-main\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+G:\DamlaOil-main\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DamlaOil-main\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+G:\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+G:\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+G:\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.dll
+G:\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.pdb
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\DamlaYağ.dll.config
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\DamlaYağ.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\DamlaYağ.pdb
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\csc.exe
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\csc.exe.config
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\csc.rsp
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\csi.exe
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\csi.exe.config
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\csi.rsp
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.AppContext.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Console.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Net.Http.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.exe
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.exe.config
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\vbc.rsp
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.dll
+C:\Users\rampa\OneDrive\Masaüstü\DamlaOil-main\DamlaYağ\obj\Debug\DamlaYağ.pdb
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\DamlaYağ.dll.config
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\DamlaYağ.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\DamlaYağ.pdb
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\csc.exe
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\csc.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\csc.rsp
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\csi.exe
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\csi.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\csi.rsp
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.AppContext.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Console.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Net.Http.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\vbc.exe
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\vbc.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\vbc.rsp
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.dll
+C:\Users\Oktay Çalışkan\Desktop\Yeni klasör\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.pdb
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\DamlaYağ.dll.config
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\DamlaYağ.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\DamlaYağ.pdb
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\csc.exe
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\csc.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\csc.rsp
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\csi.exe
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\csi.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\csi.rsp
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.AppContext.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Console.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Net.Http.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\vbc.exe
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\vbc.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\vbc.rsp
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.csproj.AssemblyReference.cache
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.csproj.CoreCompileInputs.cache
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.csproj.CopyComplete
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.dll
+C:\Users\Oktay Çalışkan\Desktop\Projeler\DamlaOil-mainn\DamlaYağ\obj\Debug\DamlaYağ.pdb
