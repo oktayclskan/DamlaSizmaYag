@@ -16,7 +16,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Ysabeau+Office:ital,wght@0,100;1,300&display=swap" rel="stylesheet">
     <script src="Assetss/angular-1.8.2/angular.min.js"></script>
 
@@ -127,20 +127,90 @@
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
         </div>
-        <div class="footer">
+        <div class="footer pb-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 mt-5">
-                        <span class="marka">Doğal Sızmayağ</span>
+                    <div class="col-md-4 mt-5">
+                        <div class="addressFooter ">
+                            <span class="marka">Doğal Sızmayağ</span>
+                            <p class="mt-4 text-secondary">Doğal Sızmayağ Zeytinliği Firma Adresimiz: Havran Mescit Mah.Erdemit-Balıkesir Yolu Cad.No: 32/4-5, 10560 Havran/Balıkesir</p>
+                            <br />
+                            <span class="text-secondary">T:0542 545 0437 &nbsp&nbsp&nbsp ovilo@Dogalsızma.com</span>
+                        </div>
+
                     </div>
-                     <div class="col-md-3">
-                         Kurumsal
+                    <div class="col-md-2 mt-5">
+                        <div class="BussinesFooter">
+
+                            <ul>
+                                <h6 class="text-success mb-4">KURUMSAL</h6>
+                                <a href="#">
+                                    <li>Sosyal Sorumluluk Projeleri</li>
+                                </a>
+                                <a href="#">
+                                    <li>Sıkça Sorulan Sorulan</li>
+                                </a>
+                                <a href="#">
+                                    <li>Kargo Takibi</li>
+                                </a>
+                                <a href="#">
+                                    <li>Teslimat Ve İade</li>
+                                </a>
+                                <a href="OilBlog.aspx">
+                                    <li>Blog</li>
+                                </a>
+                            </ul>
+                        </div>
                     </div>
-                     <div class="col-md-3">
-                         Kategoriler
+                    <div class="col-md-2 mt-5">
+                        <div class="CategoryFooter">
+                            <ul>
+                                <h6 class="text-success mb-4 ">KATEGORİLER</h6>
+                                <a href="#">
+                                    <li>Soğuk Sıkım Zeytinyağları</li>
+                                </a>
+                                <a href="#">
+                                    <li>Doğal Zeytinler</li>
+                                </a>
+                                <a href="#">
+                                    <li>Zeytinyağı Sabunları</li>
+                                </a>
+                            </ul>
+                        </div>
                     </div>
-                     <div class="col-md-3">
-                         Hesabım
+                    <div class="col-md-2 mt-5 ">
+                        <div class="accountFooter">
+                            <ul>
+                                <h6 class="text-success mb-4 ">HESABIM</h6>
+                                <a href="#">
+                                    <li>Soğuk Sıkım Zeytinyağları</li>
+                                </a>
+                                <a href="#">
+                                    <li>Doğal Zeytinler</li>
+                                </a>
+                                <a href="#">
+                                    <li>Zeytinyağı Sabunları</li>
+                                </a>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2 mt-5">
+                        <div class="socialFooter">
+                            <ul>
+                                <a href="#">
+                                    <li><i class="fa-brands fa-facebook"></i></li>
+                                </a>
+                                <a href="#">
+                                    <li><i class="fa-brands fa-instagram"></i></li>
+                                </a>
+                                <a href="#">
+                                    <li><i class="fa-brands fa-whatsapp"></i></li>
+                                </a>
+                                <a href="#">
+                                    <li><i class="fa-brands fa-twitter"></i></li>
+                                </a>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

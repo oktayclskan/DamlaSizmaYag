@@ -103,7 +103,67 @@
     }
 
 .footer {
-    background-color :#F8F8F8;
-    height:600px;
-    width:100%;
+    background-color: #F8F8F8;
+    width: 100%;
 }
+
+    .footer .BussinesFooter .addressFooter p {
+        font-size: 22pt;
+    }
+
+    .footer .BussinesFooter a {
+        list-style-type: none;
+        text-decoration: none;
+        font-size: 10pt;
+    }
+
+    .footer .BussinesFooter ul li {
+        margin-top: 6px;
+
+        color: #6C757D;
+    }
+
+        .footer .BussinesFooter ul li:hover {
+            color: darkgreen;
+        }
+
+    .footer .CategoryFooter ul li {
+        margin-top: 6px;
+        color: #6C757D;
+    }
+
+        .footer .CategoryFooter ul li:hover {
+            color: darkgreen;
+        }
+    .footer .CategoryFooter a {
+        list-style-type: none;
+        text-decoration: none;
+        font-size: 10pt;
+    }
+    .footer .CategoryFooter ul li {
+        margin-top: 6px;
+        color: #6C757D;
+    }
+
+    .footer .accountFooter ul li {
+        margin-top: 6px;
+        color: #6C757D;
+    }
+        .footer .accountFooter ul li:hover {
+            color: darkgreen;
+        }
+    .footer .accountFooter a {
+        list-style-type: none;
+        text-decoration: none;
+        font-size: 10pt;
+    }
+    .footer .socialFooter a {
+        list-style-type: none;
+        text-decoration: none;
+        font-size: 20pt;
+        text-align: center;
+        color: #48494b;
+    }
+    .footer .socialFooter ul li:hover {
+        color: wheat;
+    }
