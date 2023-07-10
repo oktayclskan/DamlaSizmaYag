@@ -40,53 +40,70 @@
     }
 
 .Menu {
-    width:100%;
-    margin-top:-8px;
-    border-top:2px solid silver;
+    width: 100%;
+    margin-top: -8px;
+    border-top: 2px solid silver;
     height: 55px;
     background-color: #e0e2c6;
 }
+
     .Menu ul {
         list-style-type: none;
         margin-top: -8px;
     }
+
         .Menu ul a {
-            font-weight:500;
+            font-weight: 500;
             color: #4D6649;
         }
+
 .Home .title {
     margin-top: -15px;
     color: #4D6649;
 }
-.card-footer row{
+
+.card-footer row {
 }
-.card-footer .titlee{
-    height:49px;
+
+.card-footer .titlee {
+    height: 49px;
 }
-.card-footer .titlee h6 {
-    font-size: 11pt;
-}
+
+    .card-footer .titlee h6 {
+        font-size: 11pt;
+    }
+
 .card-footer .detail {
     height: 30px;
     font-size: 9pt;
-    color:#808080;
+    color: #808080;
 }
+
 .card-footer .price {
     height: 30px;
-    color:darkorange;
+    color: darkorange;
 }
+
 .blog .title h2 {
     font-family: 'Ysabeau Office', sans-serif;
     font-weight: 900;
     color: #4D6649;
-    text-align:center;
+    text-align: center;
 }
+
 .blog .btnBlog {
     display: block;
     background-color: #61795c;
-    color:white;
-    font-weight:600;
+    color: white;
+    font-weight: 600;
 }
+
     .blog .btnBlog:hover {
         background-color: #4D6649;
     }
+
+.footer {
+    background-color :#F8F8F8;
+    height:600px;
+    width:100%;
+}

@@ -56,7 +56,7 @@
                 <div class="col-sm-3">
                     <div class="row">
                         <div class="col-sm-5 text-center text-white mt-2 contact">
-                            <a href="BlogPage.aspx" class="text-decoration-none text-white"><span>Blog</span>
+                            <a href="OliveOilBenfitsBlog.aspx" class="text-decoration-none text-white"><span>Blog</span>
                             </a>
                         </div>
                         <div class="col-sm-7 text-success text-white contact mt-1">
@@ -126,6 +126,24 @@
         <div class="container mt-5">
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 mt-5">
+                        <span class="marka">Doğal Sızmayağ</span>
+                    </div>
+                     <div class="col-md-3">
+                         Kurumsal
+                    </div>
+                     <div class="col-md-3">
+                         Kategoriler
+                    </div>
+                     <div class="col-md-3">
+                         Hesabım
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
