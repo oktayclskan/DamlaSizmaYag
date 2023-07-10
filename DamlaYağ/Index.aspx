@@ -9,7 +9,6 @@
                 <h3 class="text-center title">Soğuk Sıkım Zeytinyağları
                 </h3>
             </div>
-           
         </div>
         <div class="row">
             <div class="col-lg-12 text-center mb-3">
@@ -30,13 +29,13 @@
                                 <div id="{{x.CarouselID}}" class="carousel slide" data-bs-pause="hover">
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{x.AnaResim1}}" class="w-100 ">
+                                            <img src="{{x.Img1}}" class="w-100 ">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{x.AnaResim2}}" class="w-100">
+                                            <img src="{{x.Img2}}" class="w-100">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{x.AnaResim3}}" class="w-100">
+                                            <img src="{{x.Img3}}" class="w-100">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="{{x.TargetID}}" data-bs-slide="prev">

@@ -101,6 +101,9 @@
     .blog .btnBlog:hover {
         background-color: #4D6649;
     }
+.bigImgBlog{
+    width:100%;
+}
 
 .footer {
     background-color: #F8F8F8;

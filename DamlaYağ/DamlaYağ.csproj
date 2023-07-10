@@ -4812,15 +4812,28 @@
     <Content Include="Assetss\fontawesome-free-6.3.0-web\svgs\solid\yin-yang.svg" />
     <Content Include="Assetss\fontawesome-free-6.3.0-web\svgs\solid\z.svg" />
     <Content Include="Assetss\Img\H2oDamlaLogo.png" />
+    <Content Include="Assetss\Img\imageblog.png" />
     <Content Include="Assetss\Img\img4.jpg" />
     <Content Include="Assetss\Img\img5.jpg" />
     <Content Include="Assetss\Img\img6.jpg" />
     <Content Include="Assetss\Img\SogutSıkımZtitleimg.jpg" />
     <Content Include="Assetss\Img\wplogo.png" />
+    <Content Include="Assetss\Img\zey1a.jpg" />
     <Content Include="Assetss\Js\jquery-3.6.4.min.js" />
+    <Content Include="Assetss\ProductImage\NaturalOlive\naturaloil.jpg" />
+    <Content Include="Assetss\ProductImage\NaturalOlive\zeytin1.png" />
+    <Content Include="Assetss\ProductImage\NaturalOlive\zeytin2.png" />
+    <Content Include="Assetss\ProductImage\NaturalOlive\zeytin3.png" />
+    <Content Include="Assetss\ProductImage\OliveOilSoap\sabun1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOilSoap\sabun2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOilSoap\sabun3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOilSoap\sabunlar-desktop.jpg" />
     <Content Include="Index.aspx" />
+    <Content Include="NaturalOlive.aspx" />
     <Content Include="OilBlog.aspx" />
     <Content Include="OliveOilBenfitsBlog.aspx" />
+    <Content Include="OliveOilSoaps.aspx" />
+    <Content Include="OlivepProduction.aspx" />
     <Content Include="RecipesBlog.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -4838,6 +4851,13 @@
     <Compile Include="Master.Master.designer.cs">
       <DependentUpon>Master.Master</DependentUpon>
     </Compile>
+    <Compile Include="NaturalOlive.aspx.cs">
+      <DependentUpon>NaturalOlive.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NaturalOlive.aspx.designer.cs">
+      <DependentUpon>NaturalOlive.aspx</DependentUpon>
+    </Compile>
     <Compile Include="OilBlog.aspx.cs">
       <DependentUpon>OilBlog.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4851,6 +4871,20 @@
     </Compile>
     <Compile Include="OliveOilBenfitsBlog.aspx.designer.cs">
       <DependentUpon>OliveOilBenfitsBlog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OliveOilSoaps.aspx.cs">
+      <DependentUpon>OliveOilSoaps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OliveOilSoaps.aspx.designer.cs">
+      <DependentUpon>OliveOilSoaps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OlivepProduction.aspx.cs">
+      <DependentUpon>OlivepProduction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OlivepProduction.aspx.designer.cs">
+      <DependentUpon>OlivepProduction.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RecipesBlog.aspx.cs">
@@ -5181,6 +5215,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assetss\angular-1.8.2\i18n\ngLocale\" />
+    <Folder Include="Assetss\ProductImage\OliveOil\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

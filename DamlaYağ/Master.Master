@@ -105,13 +105,13 @@
                             <a href="Index.aspx" class="float-start btn">
                                 <li style="font-size: 10pt;" title="14 ürün var">Doğal Sıkım Zeytinyağları &nbsp<span class="badge badge-primary badge-pill text-bg-secondary">14</span></li>
                             </a>
-                            <a href="#" class="float-start btn">
+                            <a href="NaturalOlive.aspx" class="float-start btn">
                                 <li style="font-size: 10pt;" title="25 ürün var">Doğal Zeytinler <span class="badge badge-primary badge-pill text-bg-secondary">25</span></li>
                             </a>
-                            <a href="#" class="float-start btn">
+                            <a href="OliveOilSoaps.aspx" class="float-start btn">
                                 <li style="font-size: 10pt;" title="10 ürün var">Zeytin Sabunları <span class="badge badge-primary badge-pill text-bg-secondary">10</span></li>
                             </a>
-                            <a href="#" class="float-start btn">
+                            <a href="OlivepProduction.aspx" class="float-start btn">
                                 <li style="font-size: 10pt;" title="17 ürün var">Taze Zeytinyağı Nasıl üretiliyor </li>
                             </a>
                             <a href="#" class="float-start btn">
@@ -141,7 +141,6 @@
                     </div>
                     <div class="col-md-2 mt-5">
                         <div class="BussinesFooter">
-
                             <ul>
                                 <h6 class="text-success mb-4">KURUMSAL</h6>
                                 <a href="#">
@@ -183,13 +182,13 @@
                             <ul>
                                 <h6 class="text-success mb-4 ">HESABIM</h6>
                                 <a href="#">
-                                    <li>Soğuk Sıkım Zeytinyağları</li>
+                                    <li>Üyelik İşlemleri</li>
                                 </a>
                                 <a href="#">
-                                    <li>Doğal Zeytinler</li>
+                                    <li>Kargom Nerede</li>
                                 </a>
                                 <a href="#">
-                                    <li>Zeytinyağı Sabunları</li>
+                                    <li>İşlem Rehberi</li>
                                 </a>
                             </ul>
                         </div>
