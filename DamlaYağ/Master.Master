@@ -114,7 +114,7 @@
                             <a href="OlivepProduction.aspx" class="float-start btn">
                                 <li style="font-size: 10pt;" title="17 ürün var">Taze Zeytinyağı Nasıl üretiliyor </li>
                             </a>
-                            <a href="#" class="float-start btn">
+                            <a href="Rewards.aspx" class="float-start btn">
                                 <li style="font-size: 10pt;" title="5 ürün var">Kalitemiz ve Ödüllerimiz </li>
                             </a>
                         </ul>
@@ -215,7 +215,6 @@
             </div>
         </div>
     </div>
-
     <script src="Assetss/fontawesome-free-6.3.0-web/js/all.min.js"></script>
     <script src="Assetss/bootstrap-5.3.0-alpha3-dist/js/bootstrap.bundle.min.js"></script>
     <script src="Assetss/bootstrap-5.3.0-alpha3-dist/js/bootstrap.min.js"></script>

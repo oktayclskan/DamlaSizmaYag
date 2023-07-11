@@ -150,5 +150,22 @@
       "Title": "Zeytin Ömür Uzatıyor",
       "Description": "Zeytin dünyanın en uzun ömürlü ağaçlarından biri. Neredeyse 500 yıl kadar yaşayabildiğini öğrenince de hiç şaşırmadım! 100 yılı devirmiş..."
     }
+  ],
+
+  "Rewards2022": [
+    {
+      "Image1": "Assetss/Img/Rewards/mad1.png",
+      "Image2": "Assetss/Img/Rewards/mad2.png",
+      "Image3": "Assetss/Img/Rewards/mad3.png",
+      "Image4": "Assetss/Img/Rewards/mad4.png",
+      "Image5": "Assetss/Img/Rewards/mad5.png",
+      "Image6": "Assetss/Img/Rewards/mad6.png",
+      "Image7": "Assetss/Img/Rewards/mad7.png",
+      "Image8": "Assetss/Img/Rewards/mad8.png",
+      "Image9": "Assetss/Img/Rewards/mad9.png",
+      "Image10": "Assetss/Img/Rewards/mad10.png",
+      "Image11": "Assetss/Img/Rewards/mad11.png",
+      "Image12": "Assetss/Img/Rewards/mad12.png"
+    }
   ]
 }

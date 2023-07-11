@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AnalysisReport.aspx" />
     <Content Include="Assetss\angular-1.8.2\angular-animate.js" />
     <Content Include="Assetss\angular-1.8.2\angular-animate.min.js" />
     <Content Include="Assetss\angular-1.8.2\angular-aria.js" />
@@ -4811,11 +4812,25 @@
     <Content Include="Assetss\fontawesome-free-6.3.0-web\svgs\solid\yen-sign.svg" />
     <Content Include="Assetss\fontawesome-free-6.3.0-web\svgs\solid\yin-yang.svg" />
     <Content Include="Assetss\fontawesome-free-6.3.0-web\svgs\solid\z.svg" />
+    <Content Include="Assetss\Img\cargo.png" />
     <Content Include="Assetss\Img\H2oDamlaLogo.png" />
     <Content Include="Assetss\Img\imageblog.png" />
     <Content Include="Assetss\Img\img4.jpg" />
     <Content Include="Assetss\Img\img5.jpg" />
     <Content Include="Assetss\Img\img6.jpg" />
+    <Content Include="Assetss\Img\Rewards\mad1.png" />
+    <Content Include="Assetss\Img\Rewards\mad10.png" />
+    <Content Include="Assetss\Img\Rewards\mad11.png" />
+    <Content Include="Assetss\Img\Rewards\mad12.png" />
+    <Content Include="Assetss\Img\Rewards\mad2.png" />
+    <Content Include="Assetss\Img\Rewards\mad3.png" />
+    <Content Include="Assetss\Img\Rewards\mad4.png" />
+    <Content Include="Assetss\Img\Rewards\mad5.png" />
+    <Content Include="Assetss\Img\Rewards\mad6.png" />
+    <Content Include="Assetss\Img\Rewards\mad7.png" />
+    <Content Include="Assetss\Img\Rewards\mad8.png" />
+    <Content Include="Assetss\Img\Rewards\mad9.png" />
+    <Content Include="Assetss\Img\SertifkaImg\fssc-22000-sertifikasi-.jpg" />
     <Content Include="Assetss\Img\SogutSıkımZtitleimg.jpg" />
     <Content Include="Assetss\Img\wplogo.png" />
     <Content Include="Assetss\Img\zey1a.jpg" />
@@ -4840,9 +4855,18 @@
     <Content Include="OliveOilBenfitsBlog.aspx" />
     <Content Include="OliveOilSoaps.aspx" />
     <Content Include="OlivepProduction.aspx" />
+    <Content Include="Quality.aspx" />
     <Content Include="RecipesBlog.aspx" />
+    <Content Include="Rewards.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnalysisReport.aspx.cs">
+      <DependentUpon>AnalysisReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnalysisReport.aspx.designer.cs">
+      <DependentUpon>AnalysisReport.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4893,12 +4917,26 @@
       <DependentUpon>OlivepProduction.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quality.aspx.cs">
+      <DependentUpon>Quality.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Quality.aspx.designer.cs">
+      <DependentUpon>Quality.aspx</DependentUpon>
+    </Compile>
     <Compile Include="RecipesBlog.aspx.cs">
       <DependentUpon>RecipesBlog.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="RecipesBlog.aspx.designer.cs">
       <DependentUpon>RecipesBlog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Rewards.aspx.cs">
+      <DependentUpon>Rewards.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rewards.aspx.designer.cs">
+      <DependentUpon>Rewards.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

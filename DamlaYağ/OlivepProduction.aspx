@@ -77,6 +77,7 @@
                         <video autoplay muted src="Assetss/Video/y2mate.com%20-%20Nermin%20Hanımdan%20Altın%20Madalyalı%20Taze%20Zeytinyağı_1080p.mp4" width="1200" />
                     </div>
                 </div>
+              
             </div>
         </div>
     </div>
