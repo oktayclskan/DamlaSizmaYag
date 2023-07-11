@@ -40,7 +40,7 @@
         app.controller('GetData', function ($scope, $http) {
             $http.get("Master.json").then(function (response) {
                 $scope.veri = response.data.RecipesBlog;
-                $scope.veri = response.data.Ol;
+                $scope.veri = response.data.RecipesBlog;
             });
         });
      </script>

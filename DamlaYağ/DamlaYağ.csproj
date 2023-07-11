@@ -4830,7 +4830,12 @@
     <Content Include="Assetss\Img\Rewards\mad7.png" />
     <Content Include="Assetss\Img\Rewards\mad8.png" />
     <Content Include="Assetss\Img\Rewards\mad9.png" />
-    <Content Include="Assetss\Img\SertifkaImg\fssc-22000-sertifikasi-.jpg" />
+    <Content Include="Assetss\Img\SertifkaImg\sertifka1.jpg" />
+    <Content Include="Assetss\Img\SertifkaImg\sertifka2.jpg" />
+    <Content Include="Assetss\Img\SertifkaImg\sertifka3.jpg" />
+    <Content Include="Assetss\Img\SertifkaImg\sertifka4.jpg" />
+    <Content Include="Assetss\Img\SertifkaImg\sertifka5.jpg" />
+    <Content Include="Assetss\Img\SertifkaImg\sertifka6.jpg" />
     <Content Include="Assetss\Img\SogutSıkımZtitleimg.jpg" />
     <Content Include="Assetss\Img\wplogo.png" />
     <Content Include="Assetss\Img\zey1a.jpg" />
@@ -4857,6 +4862,7 @@
     <Content Include="OlivepProduction.aspx" />
     <Content Include="Quality.aspx" />
     <Content Include="RecipesBlog.aspx" />
+    <Content Include="Register.aspx" />
     <Content Include="Rewards.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -4930,6 +4936,13 @@
     </Compile>
     <Compile Include="RecipesBlog.aspx.designer.cs">
       <DependentUpon>RecipesBlog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
     <Compile Include="Rewards.aspx.cs">
       <DependentUpon>Rewards.aspx</DependentUpon>
