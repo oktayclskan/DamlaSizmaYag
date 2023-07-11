@@ -4819,6 +4819,11 @@
     <Content Include="Assetss\Img\SogutSıkımZtitleimg.jpg" />
     <Content Include="Assetss\Img\wplogo.png" />
     <Content Include="Assetss\Img\zey1a.jpg" />
+    <Content Include="Assetss\Img\zey2a.jpg" />
+    <Content Include="Assetss\Img\zey3a.jpg" />
+    <Content Include="Assetss\Img\zey4a.jpg" />
+    <Content Include="Assetss\Img\zh1.jpg" />
+    <Content Include="Assetss\Img\zh2.jpg" />
     <Content Include="Assetss\Js\jquery-3.6.4.min.js" />
     <Content Include="Assetss\ProductImage\NaturalOlive\naturaloil.jpg" />
     <Content Include="Assetss\ProductImage\NaturalOlive\zeytin1.png" />
@@ -4828,6 +4833,7 @@
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabun2.jpg" />
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabun3.jpg" />
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabunlar-desktop.jpg" />
+    <Content Include="Assetss\Video\y2mate.com - Nermin Hanımdan Altın Madalyalı Taze Zeytinyağı_1080p.mp4" />
     <Content Include="Index.aspx" />
     <Content Include="NaturalOlive.aspx" />
     <Content Include="OilBlog.aspx" />
