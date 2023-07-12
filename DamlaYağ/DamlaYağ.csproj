@@ -4855,6 +4855,7 @@
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabunlar-desktop.jpg" />
     <Content Include="Assetss\Video\y2mate.com - Nermin Hanımdan Altın Madalyalı Taze Zeytinyağı_1080p.mp4" />
     <Content Include="Index.aspx" />
+    <Content Include="Login.aspx" />
     <Content Include="NaturalOlive.aspx" />
     <Content Include="OilBlog.aspx" />
     <Content Include="OliveOilBenfitsBlog.aspx" />
@@ -4879,6 +4880,13 @@
     </Compile>
     <Compile Include="Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Master.Master.cs">
       <DependentUpon>Master.Master</DependentUpon>

@@ -18,7 +18,7 @@
             </div>
             <h2 class="text-center mt-5 mb-5">Kalite Belgelerimiz</h2>
             <div class="row">
-                <div class="col-md-6 ">
+                <div class="col-md-6 "> 
                     <!-- Button trigger modal -->
                     <button type="button" class="btn btn-secondary" style="width:100%" data-bs-toggle="modal" data-bs-target="#staticBackdrop"><i class="fa-regular fa-file-lines float-start p-1"></i>
                         <span>FSSC 2200 Sertifkası</span><i class="fa-solid fa-angle-down fa-rotate-270 float-end m-1"></i>
@@ -28,15 +28,13 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+                                    <h5 class="modal-title" id="staticBackdropLabel">Damla Sızmayağ</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="Assetss/Img/SertifkaImg/sertifka1.jpg" class="img-thumbnail" />
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -50,15 +48,13 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabell">Modal title</h5>
+                                    <h5 class="modal-title" id="staticBackdropLabell">Damla Sızmayağ</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="Assetss/Img/SertifkaImg/sertifka2.jpg" class="img-thumbnail" />
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -72,15 +68,13 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabelll">Modal title</h5>
+                                    <h5 class="modal-title" id="staticBackdropLabelll">Damla Sızmayağ</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="Assetss/Img/SertifkaImg/sertifka3.jpg" class="img-thumbnail" />
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -94,15 +88,13 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabellll">Modal title</h5>
+                                    <h5 class="modal-title" id="staticBackdropLabellll">Damla Sızmayağ</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="Assetss/Img/SertifkaImg/sertifka4.jpg" class="img-thumbnail" />
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -116,15 +108,13 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabelllll">Modal title</h5>
+                                    <h5 class="modal-title" id="staticBackdropLabelllll">Damla Sızmayağ</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="Assetss/Img/SertifkaImg/sertifka5.jpg" class="img-thumbnail" />
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -138,15 +128,13 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabellllll">Modal title</h5>
+                                    <h5 class="modal-title" id="staticBackdropLabellllll">Damla Sızmayağ</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <img src="Assetss/Img/SertifkaImg/sertifka6.jpg" class="img-thumbnail" />
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>

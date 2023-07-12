@@ -83,10 +83,10 @@
                     </div>
                     <div class="col-lg-9">
                         <ul class="">
-                            <a href="#" class="btn mt-2">
+                            <a href="Login.aspx" class="btn mt-2">
                                 <li class="float-end list-group-item">Üye Girişi</li>
                             </a>
-                            <a href="#" class="btn  mt-2">
+                            <a href="Register.aspx" class="btn  mt-2">
                                 <li class="float-end list-group-item">Üye ol</li>
                             </a>
                             <a href="#" class="btn  mt-2">
