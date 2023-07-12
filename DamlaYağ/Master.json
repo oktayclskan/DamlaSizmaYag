@@ -7,7 +7,7 @@
       "Img1": "Assetss/Img/img4.jpg",
       "Img2": "Assetss/Img/img5.jpg",
       "Img3": "Assetss/Img/img6.jpg",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo",
       "TargetID": "#demo"
     },
@@ -18,7 +18,7 @@
       "Img1": "Assetss/Img/img4.jpg",
       "Img2": "Assetss/Img/img5.jpg",
       "Img3": "Assetss/Img/img6.jpg",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo1",
       "TargetID": "#demo1"
     },
@@ -29,7 +29,7 @@
       "Img1": "Assetss/Img/img4.jpg",
       "Img2": "Assetss/Img/img5.jpg",
       "Img3": "Assetss/Img/img6.jpg",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo2",
       "TargetID": "#demo2"
     }
@@ -166,6 +166,14 @@
       "Image10": "Assetss/Img/Rewards/mad10.png",
       "Image11": "Assetss/Img/Rewards/mad11.png",
       "Image12": "Assetss/Img/Rewards/mad12.png"
+    }
+  ],
+  "ContentProduct": [
+    {
+      "ContentImages": "Assetss/Img/img6.jpg",
+      "Title": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
+      "Desc": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
+      "Price": "1.250.00 TL"
     }
   ]
 

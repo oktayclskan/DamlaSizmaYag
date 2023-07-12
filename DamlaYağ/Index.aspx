@@ -15,28 +15,31 @@
                 <img src="Assetss/Img/SogutSıkımZtitleimg.jpg" class="w-75" />
             </div>
         </div>
-         <div class="container mt-2 me-sm-5" style="font-family: Calibri">
-                <label text="text" style="color: #867f7f">Anasayfa</label>
-                /
+        <div class="container mt-2 me-sm-5" style="font-family: Calibri">
+            <label text="text" style="color: #867f7f">Anasayfa</label>
+            /
                 <label text="text" style="color: orange">Sayfa Adı gelicek</label>
-            </div>
+        </div>
         <div ng-app="card" ng-controller="GetData">
             <div class="content">
                 <div class="row">
+
                     <div ng-repeat="x in veri" class="col-lg-3">
                         <div class="card border-0">
                             <div class="card-body">
                                 <div id="{{x.CarouselID}}" class="carousel slide" data-bs-pause="hover">
                                     <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <img src="{{x.Img1}}" class="w-100 ">
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="{{x.Img2}}" class="w-100">
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="{{x.Img3}}" class="w-100">
-                                        </div>
+                                        <a href="Product.aspx">
+                                            <div class="carousel-item active">
+                                                <img src="{{x.Img1}}" class="w-100 ">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{x.Img2}}" class="w-100">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="{{x.Img3}}" class="w-100">
+                                            </div>
+                                        </a>
                                     </div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="{{x.TargetID}}" data-bs-slide="prev">
                                         <span class="carousel-control-prev-icon"></span>
