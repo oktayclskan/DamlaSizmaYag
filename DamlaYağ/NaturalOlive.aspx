@@ -6,7 +6,7 @@
     <div class="container Home">
         <div class="row">
             <div class="col-12 mb-3">
-                <h3 class="text-center title">Soğuk Sıkım Zeytinyağları
+                <h3 class="text-center title">Doğal Zeytinler
                 </h3>
             </div>
         </div>
@@ -17,7 +17,7 @@
         </div>
         <div class="container mt-2 me-sm-5" style="font-family: Calibri">
             <label text="text" style="color: #867f7f">Anasayfa</label> / 
-            <label text="text" style="color: orange">Sayfa Adı gelicek</label>
+            <label text="text" style="color: orange">Doğal Zeytinler</label>
         </div>
         <div ng-app="card" ng-controller="GetData">
             <div class="content">

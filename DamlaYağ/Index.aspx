@@ -18,12 +18,11 @@
         <div class="container mt-2 me-sm-5" style="font-family: Calibri">
             <label text="text" style="color: #867f7f">Anasayfa</label>
             /
-                <label text="text" style="color: orange">Sayfa Adı gelicek</label>
+                <label text="text" style="color: orange">Soğuk Sıkım Zeytinyağları</label>
         </div>
         <div ng-app="card" ng-controller="GetData">
             <div class="content">
                 <div class="row">
-
                     <div ng-repeat="x in veri" class="col-lg-3">
                         <div class="card border-0">
                             <div class="card-body">

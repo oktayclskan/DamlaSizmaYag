@@ -9,7 +9,7 @@
             <div ng-repeat="x in veri">
                 <div class="row">
                     <div class="col-md-6 text-center">
-                        <img src="{{x.ContentImages}}" width="420" />
+                        <img src="Assetss/ProductImage/OliveOil/u1img1.jpg" width="420" />
                     </div>
                     <div class="col-md-4 mt-1" style="color: #4D6649; font-family: 'Akhbar MT'; font-size: 14pt">
                         <div class="title">

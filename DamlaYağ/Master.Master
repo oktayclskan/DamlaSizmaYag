@@ -82,7 +82,7 @@
                         <input type="search" ng-model="search" class="form-control p-0" />
                     </div>
                     <div class="col-lg-9">
-                        <ul class="">
+                        <ul class="" style="font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serifCastellar">
                             <a href="Login.aspx" class="btn mt-2">
                                 <li class="float-end list-group-item">Üye Girişi</li>
                             </a>
@@ -106,7 +106,7 @@
                                 <span class="navbar-toggler-icon"></span>
                             </button>
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                                <ul class="navbar-nav me-auto mb-1 mb-lg-0 ">
+                                <ul class="navbar-nav me-auto mb-1 mb-lg-0 " style="font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serifCastellar">
                                     <li class="nav-item">
                                         <a class="nav-link menuItem" href="Index.aspx">Doğal Sıkım Zeytinyağları </a>
                                     </li>
@@ -154,7 +154,7 @@
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
         </div>
-        <div class="footer pb-5">
+        <div class="footer pb-5 mt-5">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 mt-5">

@@ -67,7 +67,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AnalysisReport.aspx" />
     <Content Include="Assetss\angular-1.8.2\angular-animate.js" />
     <Content Include="Assetss\angular-1.8.2\angular-animate.min.js" />
     <Content Include="Assetss\angular-1.8.2\angular-aria.js" />
@@ -4817,7 +4816,6 @@
     <Content Include="Assetss\Img\imageblog.png" />
     <Content Include="Assetss\Img\img4.jpg" />
     <Content Include="Assetss\Img\img5.jpg" />
-    <Content Include="Assetss\Img\img6.jpg" />
     <Content Include="Assetss\Img\Rewards\mad1.png" />
     <Content Include="Assetss\Img\Rewards\mad10.png" />
     <Content Include="Assetss\Img\Rewards\mad11.png" />
@@ -4854,6 +4852,54 @@
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabun2.jpg" />
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabun3.jpg" />
     <Content Include="Assetss\ProductImage\OliveOilSoap\sabunlar-desktop.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u10img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u10img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u10img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u10imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u11img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u11img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u11img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u11imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u12img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u12img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u12img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u12imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u1img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u1img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u1img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u1imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u2img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u2img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u2img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u2imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u3img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u3img2.png" />
+    <Content Include="Assetss\ProductImage\OliveOil\u3img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u3imgContent.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u4img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u4img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u4img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u4imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u5img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u5img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u5img3.png" />
+    <Content Include="Assetss\ProductImage\OliveOil\u5imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u6img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u6img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u6img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u6imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u7img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u7img2.png" />
+    <Content Include="Assetss\ProductImage\OliveOil\u7img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u7imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u8img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u8img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u8img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u8imgContnt.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u9img1.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u9img2.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u9img3.jpg" />
+    <Content Include="Assetss\ProductImage\OliveOil\u9imgContnt.jpg" />
     <Content Include="Assetss\Video\y2mate.com - Nermin Hanımdan Altın Madalyalı Taze Zeytinyağı_1080p.mp4" />
     <Content Include="CargoTracking.aspx" />
     <Content Include="Defauld.aspx" />
@@ -4874,13 +4920,6 @@
     <Content Include="Rewards.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AnalysisReport.aspx.cs">
-      <DependentUpon>AnalysisReport.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="AnalysisReport.aspx.designer.cs">
-      <DependentUpon>AnalysisReport.aspx</DependentUpon>
-    </Compile>
     <Compile Include="CargoTracking.aspx.cs">
       <DependentUpon>CargoTracking.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -5337,7 +5376,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assetss\angular-1.8.2\i18n\ngLocale\" />
-    <Folder Include="Assetss\ProductImage\OliveOil\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
