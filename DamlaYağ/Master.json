@@ -206,6 +206,14 @@
       "Desc": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.250.00 TL"
     }
+  ],
+  "ControlPanel": [
+    {
+      "OliveOilStock": "22",
+      "NaturalOliveStock": "112",
+      "OliveSoapStock": "221",
+      "BlogPage": "Aktif"
+    }
   ]
 
 }
