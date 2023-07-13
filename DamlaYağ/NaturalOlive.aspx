@@ -25,25 +25,7 @@
                     <div ng-repeat="x in veri" class="col-lg-3">
                         <div class="card border-0">
                             <div class="card-body">
-                                <div id="{{x.CarouselID}}" class="carousel slide" data-bs-pause="hover">
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <img src="{{x.Img1}}" class="w-100 ">
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="{{x.Img2}}" class="w-100">
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="{{x.Img3}}" class="w-100">
-                                        </div>
-                                    </div>
-                                    <button class="carousel-control-prev" type="button" data-bs-target="{{x.TargetID}}" data-bs-slide="prev">
-                                        <span class="carousel-control-prev-icon"></span>
-                                    </button>
-                                    <button class="carousel-control-next" type="button" data-bs-target="{{x.TargetID}}" data-bs-slide="next">
-                                        <span class="carousel-control-next-icon"></span>
-                                    </button>
-                                </div>
+                                <img src="{{x.Img1}}" class="w-100 ">
                                 <div class="card-footer bg-white">
                                     <div class="row titlee">
                                         <h6 class="">{{x.ProductName}}</h6>

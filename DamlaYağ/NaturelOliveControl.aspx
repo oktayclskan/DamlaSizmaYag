@@ -15,8 +15,6 @@
                 <th>KDV</th>
                 <th>Price</th>
                 <th>Carousel1</th>
-                <th>Carousel2</th>
-                <th>Carousel3</th>
                 <th>Content3</th>
             </tr>
             <tr ng-repeat="x in veri | filter:search">
@@ -27,12 +25,6 @@
                 <td>{{x.Price}}</td>
                 <td>
                     <img src="{{x.Img1}}"/ width="35">
-                </td>
-                <td>
-                    <img src="{{x.Img2}}"/ width="35">
-                </td>
-                <td>
-                    <img src="{{x.Img3}}"/ width="35">
                 </td>
                 <td>
                     <img src="{{x.ContentImages}}"/ width="35">

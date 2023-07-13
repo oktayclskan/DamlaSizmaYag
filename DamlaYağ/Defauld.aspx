@@ -7,9 +7,8 @@
         <div ng-app="table" ng-controller="GetData">
             <div ng-repeat="x in veri">
                 <div class="row">
-
                     <div class="col-sm-4">
-                        <button type="button" class="btn btn-primary p-4 mt-5" style="width: 320px">
+                        <button type="button" class="btn btn-primary p-4 mt-5 " style="width: 320px">
                             Doğal Sıkım Zeytinyağı  <small>Ürün sayısı</small> <span class="badge bg-secondary">{{x.OliveOilStock}}</span>
                         </button>
                     </div>

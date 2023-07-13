@@ -16,7 +16,7 @@
 
             <div class="row">
                 <div class="col-md-2">
-                    <button class="btn btn-dark mt-5" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasLeft">Damla Sızmayağ Kontrol Panel </button>
+                    <button class="btn btn-dark mt-5 " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasLeft">Damla Sızmayağ Kontrol Panel </button>
                     <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasLeft" aria-labelledby="offcanvasLeftLabel">
                         <div class="offcanvas-header">
                             <h5 id="offcanvasLeftLabel" style="color:#4D6649">Damla Sızmayağ Kontrol Panel</h5>
