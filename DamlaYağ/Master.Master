@@ -60,7 +60,7 @@
                             </a>
                         </div>
                         <div class="col-sm-7 text-success text-white contact mt-1">
-                            <a class="btn text-white" href="#"><i class="fa-solid fa-truck-fast "></i><span style="font-size: 12pt;">Kargo Takibi</span>
+                            <a class="btn text-white" href="CargoTracking.aspx"><i class="fa-solid fa-truck-fast "></i><span style="font-size: 12pt;">Kargo Takibi</span>
                             </a>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
         <div class="row">
             <div class="Menu">
                 <div class="container">
-                    <nav class="navbar navbar-expand-lg " style="background-color:#E0E2C6">
+                    <nav class="navbar navbar-expand-lg " style="background-color: #E0E2C6">
                         <div class="container-fluid">
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
@@ -162,7 +162,7 @@
                             <span class="marka">Doğal Sızmayağ</span>
                             <p class="mt-4 text-secondary">Doğal Sızmayağ Zeytinliği Firma Adresimiz: Havran Mescit Mah.Erdemit-Balıkesir Yolu Cad.No: 32/4-5, 10560 Havran/Balıkesir</p>
                             <br />
-                            <span class="text-secondary">T:0542 545 0437 &nbsp&nbsp&nbsp ovilo@Dogalsızma.com</span>
+                            <span class="text-secondary">T:0542 545 0437 &nbsp&nbsp&nbsp ovilo@Dogalsizma.com</span>
                         </div>
 
                     </div>
@@ -176,13 +176,11 @@
                                 <a href="#">
                                     <li>Sıkça Sorulan Sorulan</li>
                                 </a>
-                                <a href="#">
+                                <a href="CargoTracking.aspx">
                                     <li>Kargo Takibi</li>
                                 </a>
-                                <a href="#">
-                                    <li>Teslimat Ve İade</li>
-                                </a>
-                                <a href="OilBlog.aspx">
+                                
+                                <a href="OliveOilBenfitsBlog.aspx">
                                     <li>Blog</li>
                                 </a>
                             </ul>
@@ -192,13 +190,13 @@
                         <div class="CategoryFooter">
                             <ul>
                                 <h6 class="text-success mb-4 ">KATEGORİLER</h6>
-                                <a href="#">
+                                <a href="Index.aspx">
                                     <li>Soğuk Sıkım Zeytinyağları</li>
                                 </a>
-                                <a href="#">
+                                <a href="NaturalOlive.aspx">
                                     <li>Doğal Zeytinler</li>
                                 </a>
-                                <a href="#">
+                                <a href="OliveOilSoaps.aspx">
                                     <li>Zeytinyağı Sabunları</li>
                                 </a>
                             </ul>
@@ -223,16 +221,16 @@
                     <div class="col-md-2 mt-5">
                         <div class="socialFooter">
                             <ul>
-                                <a href="#">
+                                <a href="https://tr-tr.facebook.com/">
                                     <li><i class="fa-brands fa-facebook"></i></li>
                                 </a>
-                                <a href="#">
+                                <a href="https://www.instagram.com/">
                                     <li><i class="fa-brands fa-instagram"></i></li>
                                 </a>
-                                <a href="#">
+                                <a href="https://wa.me/+905425450437">
                                     <li><i class="fa-brands fa-whatsapp"></i></li>
                                 </a>
-                                <a href="#">
+                                <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Flogin%3Flang%3Dtr">
                                     <li><i class="fa-brands fa-twitter"></i></li>
                                 </a>
                             </ul>

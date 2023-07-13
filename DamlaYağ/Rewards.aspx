@@ -6,15 +6,13 @@
     <div class="container">
         <div class="blog">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <a href="Rewards.aspx" class="btn btnBlog">ÖDÜLLERİMİZ</a>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <a href="Quality.aspx" class="btn btnBlog">KALİTE BELGESİ</a>
                 </div>
-                <div class="col-md-4">
-                    <a href="AnalysisReport.aspx" class="btn btnBlog">ANALİZ RAPORLARI</a>
-                </div>
+               
             </div>
             <h2 class="text-center mt-5 mb-5">2022 yılında aldığımız ödüller</h2>
             <div ng-app="card" ng-controller="GetData">
