@@ -2719,18 +2719,29 @@
     <Content Include="Assetss\BlogImg\OilBlog\img2.jpg" />
     <Content Include="Assetss\BlogImg\OilBlog\img3.jpg" />
     <Content Include="Assetss\BlogImg\OilBlog\img4.jpg" />
+    <Content Include="Assetss\BlogImg\OilBlog\olive1.jpg" />
     <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t171650.158-500x317.jpg" />
     <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t171823.872-500x317.jpg" />
     <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172100.823-500x317.jpg" />
     <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172329.151-500x317.jpg" />
     <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172458.907-500x317.jpg" />
     <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blog-2023-04-12t172908.122-500x317.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blokolive.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blokolive2.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blokolive3.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blokolive4.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blokolive5.jpg" />
+    <Content Include="Assetss\BlogImg\OliveOilBenefitsBlog\blokolive6.jpg" />
     <Content Include="Assetss\BlogImg\RecipesBlog\blog-2.jpg" />
     <Content Include="Assetss\BlogImg\RecipesBlog\blog-3.jpg" />
     <Content Include="Assetss\BlogImg\RecipesBlog\blog-4.jpg" />
     <Content Include="Assetss\BlogImg\RecipesBlog\blog-5.jpg" />
     <Content Include="Assetss\BlogImg\RecipesBlog\blog-6.jpg" />
     <Content Include="Assetss\BlogImg\RecipesBlog\blog1.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\tarif1.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\tarif2.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\tarif3.jpg" />
+    <Content Include="Assetss\BlogImg\RecipesBlog\tarif4.jpg" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\css\bootstrap-grid.css" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\css\bootstrap-grid.min.css" />
     <Content Include="Assetss\bootstrap-5.3.0-alpha3-dist\css\bootstrap-grid.rtl.css" />
@@ -4954,6 +4965,9 @@
     <Content Include="Assetss\ProductImage\OliveOil\u9img3.jpg" />
     <Content Include="Assetss\ProductImage\OliveOil\u9imgContnt.jpg" />
     <Content Include="Assetss\Video\y2mate.com - Nermin Hanımdan Altın Madalyalı Taze Zeytinyağı_1080p.mp4" />
+    <Content Include="BlogReadBenfits.aspx" />
+    <Content Include="BlogReadRecieps.aspx" />
+    <Content Include="BlokReadOlive.aspx" />
     <Content Include="CargoTracking.aspx" />
     <Content Include="Defauld.aspx" />
     <Content Include="Index.aspx" />
@@ -4967,12 +4981,35 @@
     <Content Include="OlivepProduction.aspx" />
     <Content Include="OliveSoapControl.aspx" />
     <Content Include="Product.aspx" />
+    <Content Include="Product2.aspx" />
+    <Content Include="Product3.aspx" />
     <Content Include="Quality.aspx" />
     <Content Include="RecipesBlog.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="Rewards.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BlogReadBenfits.aspx.cs">
+      <DependentUpon>BlogReadBenfits.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogReadBenfits.aspx.designer.cs">
+      <DependentUpon>BlogReadBenfits.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlogReadRecieps.aspx.cs">
+      <DependentUpon>BlogReadRecieps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogReadRecieps.aspx.designer.cs">
+      <DependentUpon>BlogReadRecieps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlokReadOlive.aspx.cs">
+      <DependentUpon>BlokReadOlive.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlokReadOlive.aspx.designer.cs">
+      <DependentUpon>BlokReadOlive.aspx</DependentUpon>
+    </Compile>
     <Compile Include="CargoTracking.aspx.cs">
       <DependentUpon>CargoTracking.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -5070,6 +5107,20 @@
     </Compile>
     <Compile Include="Product.aspx.designer.cs">
       <DependentUpon>Product.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Product2.aspx.cs">
+      <DependentUpon>Product2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Product2.aspx.designer.cs">
+      <DependentUpon>Product2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Product3.aspx.cs">
+      <DependentUpon>Product3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Product3.aspx.designer.cs">
+      <DependentUpon>Product3.aspx</DependentUpon>
     </Compile>
     <Compile Include="ProductControl.Master.cs">
       <DependentUpon>ProductControl.Master</DependentUpon>

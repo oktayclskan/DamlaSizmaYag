@@ -26,7 +26,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{x.Title}}</h5>
                                 <p class="card-text">{{x.Description}}</p>
-                                <a href="#" class="btn btn-success">Devamını Okuyun >></a>
+                                <a href="BlogReadRecieps.aspx" class="btn btn-success">Devamını Okuyun >></a>
                             </div>
                         </div>
                     </div>

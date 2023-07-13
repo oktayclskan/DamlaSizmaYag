@@ -16,7 +16,8 @@
             </div>
         </div>
         <div class="container mt-2 me-sm-5" style="font-family: Calibri">
-            <label text="text" style="color: #867f7f">Anasayfa</label> / 
+            <label text="text" style="color: #867f7f">Anasayfa</label>
+            / 
             <label text="text" style="color: orange">Doğal Zeytinler</label>
         </div>
         <div ng-app="card" ng-controller="GetData">
@@ -25,7 +26,9 @@
                     <div ng-repeat="x in veri" class="col-lg-3">
                         <div class="card border-0">
                             <div class="card-body">
-                                <img src="{{x.Img1}}" class="w-100 ">
+                                <a href="Product2.aspx">
+                                    <img src="{{x.Img1}}" class="w-100 ">
+                                </a>
                                 <div class="card-footer bg-white">
                                     <div class="row titlee">
                                         <h6 class="">{{x.ProductName}}</h6>

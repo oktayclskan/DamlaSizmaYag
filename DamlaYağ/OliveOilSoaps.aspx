@@ -26,7 +26,9 @@
                     <div ng-repeat="x in veri" class="col-lg-3">
                         <div class="card border-0">
                             <div class="card-body">
-                                <img src="{{x.Img1}}" class="w-100 ">
+                                <a href="Product3.aspx">
+                                    <img src="{{x.Img1}}" class="w-100 ">
+                                </a>
                                 <div class="card-footer bg-white">
                                     <div class="row titlee">
                                         <h6 class="">{{x.ProductName}}</h6>

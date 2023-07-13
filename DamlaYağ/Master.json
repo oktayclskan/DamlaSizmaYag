@@ -432,6 +432,41 @@
       "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blog-2023-04-12t171823.872-500x317.jpg",
       "Title": "Yüksek Polifenollü Zeytinyağı Nedir? Faydaları Nelerdir?",
       "Description": "Yüksek polifenol içeren zeytinyağları, sağlığımız için çok önemli gıdalardadır. Zeytinyağındaki polifenol değerlerini incelemeden önce..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive.jpg",
+      "Title": "Zeytinyağının Cilde Faydaları Nelerdir??",
+      "Description": "Geçmişten günümüze birçok alanda kullanılan, insanlık tarihi boyunca ikonik hale gelen, kadim meyve zeytinin yağının cilde faydaları nelerdir? İnsanlık..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive2.jpg",
+      "Title": "Yüksek Polifenollü Zeytinyağı Nedir? Faydaları Nelerdir?",
+      "Description": "Yüksek polifenol içeren zeytinyağları, sağlığımız için çok önemli gıdalardadır. Zeytinyağındaki polifenol değerlerini incelemeden önce..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive3.jpg",
+      "Title": "Erken Hasat – Olgun Hasat Natürel Sızma Zeytinyağları",
+      "Description": "Nermin Hanım Erken Hasat – Olgun Hasat Natürel Sızma Zeytinyağları Nermin Hanım Zeytinliği’nde üretilen Erken Hasat – Olgun Hasat..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive4.jpg",
+      "Title": "Canan Karatay: “Zeytinyağı Hastalıkları Önlüyor”",
+      "Description": "İç Hastalıkları ve Kardiyoloji Uzmanı Prof. Dr. Canan Karatay, “Eğer bu ülkede zeytin meyvesi ve zeytin meyvesinin suyu olan zeytinyağı kullanımı artarsa hastalıkları..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive5.jpg",
+      "Title": "Zeytinyağı Her Zaman Yanımızda",
+      "Description": "Zeytinyağı lezzeti ve mucizesiyle mutfakta olmazsa olmazımız haline geldi. Peki mutfak dışındaki kullanım alanlarını biliyor musunuz? Ahşap mobilya temizliğinden..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive6.jpg",
+      "Title": "Filtre Edilmemiş Erken Hasat Naturel Sızma Zeytinyağı Nedir?",
+      "Description": "Ovilo Filtre Edilmemiş Erken Hasat Naturel Sızma Zeytinyağı; Ekim ayı başlarında zeytinler henüz yeşil iken erken hasat döneminde özenle yere değmeden toplanır,..."
+    },
+    {
+      "Images": "Assetss/BlogImg/OliveOilBenefitsBlog/blokolive4.jpg",
+      "Title": "Canan Karatay: “Zeytinyağı Hastalıkları Önlüyor”",
+      "Description": "İç Hastalıkları ve Kardiyoloji Uzmanı Prof. Dr. Canan Karatay, “Eğer bu ülkede zeytin meyvesi ve zeytin meyvesinin suyu olan zeytinyağı kullanımı artarsa hastalıkları..."
     }
   ],
 
@@ -440,14 +475,34 @@
 
   "RecipesBlog": [
     {
-      "Images": "Assetss/BlogImg/RecipesBlog/blog-2.jpg",
+      "Images": "Assetss/BlogImg/RecipesBlog/blog1.jpg",
       "Title": "Kakaolu Kek Tarifi",
       "Description": "Malzemeler: 3 adet yumurta 1 su bardağı şeker 1 çay bardağı süt 1 çay bardağı zeytinyağı 1 paket kabartma tozu 1 paket vanilya 2-3 çorba..."
     },
     {
-      "Images": "Assetss/BlogImg/RecipesBlog/blog1.jpg",
+      "Images": "Assetss/BlogImg/RecipesBlog/blog-2.jpg",
       "Title": "Roka Salatası",
       "Description": "Bugün sizlerle bol C vitamini içeren nefis bir salata paylaşmak istedim. Salatamı daha da lezzetlendirip sağlıklı hale getirmek içinde Kaz Daglari' nin eteklerinden..."
+    },
+    {
+      "Images": "Assetss/BlogImg/RecipesBlog/tarif1.jpg",
+      "Title": "Zeytin Ezmesi",
+      "Description": "Malzemeler: 1 su bardağı çekirdeği çıkarılmış siyah zeytin 1 diş sarımsak 5 çorba kaşığı zeytin yağı 2 çorba kaşığı limon suyu 1..."
+    },
+    {
+      "Images": "Assetss/BlogImg/RecipesBlog/tarif2.jpg",
+      "Title": "Zeytinyağlı Mantar",
+      "Description": "Mantar severler için nefis bir tarif. Nermin Hanım Zeytinliği Erken hasat soğuk sıkım zeytinyağı ile yemekler lezzetlensin. Malzemeler: 1 kilo..."
+    },
+    {
+      "Images": "Assetss/BlogImg/RecipesBlog/tarif3.jpg",
+      "Title": "Zeytinyağlı Yaprak Sarması",
+      "Description": "  Malzemeler: 4-5 adet kuru soğan 1 çay bardağı zeytinyağı 1,5-2 yemek kaşığı çam fıstığı (dolmalık fıstık) 2 su bardağı pirinç 1..."
+    },
+    {
+      "Images": "Assetss/BlogImg/RecipesBlog/tarif4.jpg",
+      "Title": "Semizotu Salatası Tarifi",
+      "Description": "  Nermin Hanım Zeytinliği'nden neden gelen nefis Ovilo zeytinyağı ile hazırladığım semizotu salatası lezzetli mi lezzetli oldu. Erken hasat soğuk sıkım zeytinyağı..."
     }
   ],
 
@@ -464,7 +519,12 @@
     {
       "Images": "Assetss/BlogImg/OilBlog/img2.jpg",
       "Title": "Zeytin Ömür Uzatıyor",
-      "Description": "Zeytin dünyanın en uzun ömürlü ağaçlarından biri. Neredeyse 500 yıl kadar yaşayabildiğini öğrenince de hiç şaşırmadım! 100 yılı devirmiş..."
+      "Description": "Zeytin dünyanın en uzun ömürlü ağaçlarından biri. Neredeyse 500 yıl kadar yaşayabildiğini öğrenince de hiç şaşırmadım! 100 yılı devirmiş şaşırmadım! 100 yılı devirmiş...şaşırmadım! 100 yılı devirmiş...şaşırmadım! 100 yılı devirmiş......"
+    },
+    {
+      "Images": "Assetss/BlogImg/OilBlog/olive1.jpg",
+      "Title": "Her Gün Bir Avuç Zeytin Yiyin, Tüketmeyen Pişman!",
+      "Description": "Uzman Diyetisyen İpek Ağaca Özger, “Sağlığınızı düşünüyorsanız, her gün bir avuç zeytin şaşırmadım! 100 yılı devirmiş... tüketin. Sadece kahvaltıda değil salata,..."
     }
   ],
 
@@ -484,12 +544,28 @@
       "Image12": "Assetss/Img/Rewards/mad12.png"
     }
   ],
-  "ContentProduct": [
+  "ContentProductOilOlive": [
     {
       "ContentImages": "Assetss/Img/img6.jpg",
       "Title": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Desc": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.250.00 TL"
+    }
+  ],
+  "ContentProductOlive": [
+    {
+      "ContentImages": "u1imgZeytin.png",
+      "Title": "Edremit Siyah Sele (Çevirme) Zeytin (10 kg)",
+      "Desc": "Doğal Fermente, net 10 Kg",
+      "Price": "1.350,00 TL"
+    }
+  ],
+  "ContentProductOliveSoap": [
+    {
+      "ContentImages": "u1imgZeytin.png",
+      "Title": "Zeytinyağı Sabunu - Lavantalı (100 gr)",
+      "Desc": "El Yapımı, 100 gr",
+      "Price": "55,00 TL"
     }
   ],
   "ControlPanel": [

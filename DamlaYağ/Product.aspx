@@ -70,7 +70,7 @@
         var app = angular.module('card', []);
         app.controller('GetData', function ($scope, $http) {
             $http.get("Master.json").then(function (response) {
-                $scope.veri = response.data.ContentProduct;
+                $scope.veri = response.data.ContentProductOilOlive;
             });
         });
     </script>
