@@ -164,7 +164,6 @@
                             <br />
                             <span class="text-secondary">T:0542 545 0437 &nbsp&nbsp&nbsp ovilo@Dogalsizma.com</span>
                         </div>
-
                     </div>
                     <div class="col-md-2 mt-5">
                         <div class="BussinesFooter">
@@ -206,10 +205,10 @@
                         <div class="accountFooter">
                             <ul>
                                 <h6 class="text-success mb-4 ">HESABIM</h6>
-                                <a href="#">
+                                <a href="Login.aspx">
                                     <li>Üyelik İşlemleri</li>
                                 </a>
-                                <a href="#">
+                                <a href="CargoTracking.aspx">
                                     <li>Kargom Nerede</li>
                                 </a>
                                 <a href="#">
