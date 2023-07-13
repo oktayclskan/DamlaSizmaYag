@@ -1,9 +1,11 @@
 {
   "OliveOil": [
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/Img/img4.jpg",
       "Img2": "Assetss/Img/img5.jpg",
       "Img3": "Assetss/Img/img6.jpg",
@@ -12,9 +14,11 @@
       "TargetID": "#demo"
     },
     {
+      "ProductNO": "2",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/Img/img4.jpg",
       "Img2": "Assetss/Img/img5.jpg",
       "Img3": "Assetss/Img/img6.jpg",
@@ -23,9 +27,24 @@
       "TargetID": "#demo1"
     },
     {
+      "ProductNO": "3",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
+      "Img1": "Assetss/Img/img4.jpg",
+      "Img2": "Assetss/Img/img5.jpg",
+      "Img3": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
+      "CarouselID": "demo2",
+      "TargetID": "#demo2"
+    },
+    {
+      "ProductNO": "4",
+      "ProductName": "aaaaaa",
+      "Detail": "ssssssss",
+      "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/Img/img4.jpg",
       "Img2": "Assetss/Img/img5.jpg",
       "Img3": "Assetss/Img/img6.jpg",
@@ -38,35 +57,41 @@
 
   "NaturalOilve": [
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "2.022,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/ProductImage/NaturalOlive/zeytin1.png",
       "Img2": "Assetss/ProductImage/NaturalOlive/zeytin2.png",
       "Img3": "Assetss/ProductImage/NaturalOlive/zeytin3.png",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo",
       "TargetID": "#demo"
     },
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/ProductImage/NaturalOlive/zeytin1.png",
       "Img2": "Assetss/ProductImage/NaturalOlive/zeytin2.png",
       "Img3": "Assetss/ProductImage/NaturalOlive/zeytin3.png",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo1",
       "TargetID": "#demo1"
     },
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/ProductImage/NaturalOlive/zeytin1.png",
       "Img2": "Assetss/ProductImage/NaturalOlive/zeytin2.png",
       "Img3": "Assetss/ProductImage/NaturalOlive/zeytin3.png",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo2",
       "TargetID": "#demo2"
     }
@@ -76,29 +101,35 @@
 
   "OliveOilSoap": [
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/ProductImage/OliveOilSoap/sabun3.jpg",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo",
       "TargetID": "#demo"
     },
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
       "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/ProductImage/OliveOilSoap/sabun3.jpg",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo1",
       "TargetID": "#demo1"
     },
     {
+      "ProductNO": "1",
       "ProductName": "Deneme Erken Hasat Soğuk Sıkım Zeytinyağı(5Lt)",
-      "Detail": "Soğuk sıkım Zeytinyağı %0,4 Asit Oranı",
+      "Detail": "ee",
       "Price": "1.076,00 TL",
+      "KDV": " 16% ",
       "Img1": "Assetss/ProductImage/OliveOilSoap/sabun3.jpg",
-      "IcerikResim": "Assetss/Img/img6.jpg",
+      "ContentImages": "Assetss/Img/img6.jpg",
       "CarouselID": "demo2",
       "TargetID": "#demo2"
     }

@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ProductControl.master.cs" Inherits="DamlaYağ.ProductControl1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="Assetss/angular-1.8.2/angular.min.js"></script>
+    <link href="Assetss/bootstrap-5.3.0-alpha3-dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-2">
+                <button class="btn btn-dark mt-5" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasLeft">Damla Sızmayağ Kontrol Panel </button>
+                <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasLeft" aria-labelledby="offcanvasLeftLabel">
+                    <div class="offcanvas-header">
+                        <h5 id="offcanvasLeftLabel">Offcanvas left</h5>
+                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul >
+                             <a class="text-decoration-none" href="Defauld.aspx">
+                                <li>Anasayfa</li>
+                            </a>
+                            <a class="text-decoration-none" href="OliveOilControl.aspx">
+                                <li>Doğal Sıkım Zeytinyağı</li>
+                            </a>
+                            <a class="text-decoration-none" href="NaturelOliveControl.aspx">
+                                <li>Doğal Zeytinler</li>
+                            </a>
+                            <a class="text-decoration-none" href="OliveSoapControl.aspx"s>
+                                <li>Zeytinyağı Sabunları</li>
+                            </a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="container">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="Assetss/bootstrap-5.3.0-alpha3-dist/js/bootstrap.min.js"></script>
+    <script src="Assetss/bootstrap-5.3.0-alpha3-dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
